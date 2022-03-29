@@ -4,7 +4,7 @@ import streamlit as st
 import seaborn as sns
 import plotly.express as px
 
-st.title('Penguin explorer')
+st.title('Penguin explorer - Updated Version for Testing purpose')
 
 st.write('**Little** *app* for exploring `penguin` [dataset](https://allisonhorst.github.io/palmerpenguins)')
 
